@@ -38,3 +38,7 @@ Le script copie `.claude/` sans écraser l'existant (`--force` pour écraser), c
 `CLAUDE.md`, et ajoute `.claude/state/` au `.gitignore`. Remplir ensuite la section
 « Configuration du projet » de `CLAUDE.md` : commandes de vérification, branches, commits,
 zones sensibles. Les skills `verification`, `branching`, `commit` et `security-review` s'y réfèrent.
+
+## Licence
+
+[MIT](LICENSE)
